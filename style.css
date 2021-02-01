@@ -1,0 +1,28 @@
+.carousel {
+  background: #fff;
+  margin-top: 20px;
+}
+.carousel-item {
+  text-align: center;
+  min-height: 280px;
+}
+
+.carousel-control-next-icon {
+  color: black;
+}
+.mov {
+  background-color: #000;
+}
+.sky {
+  font-style: italic;
+  font-weight: bolder;
+  color: red;
+  font-size: 32px;
+  font-family: Roboto;
+}
+.skyo {
+  color: gray;
+}
+.link-main{
+  background-color: #fff;
+}
